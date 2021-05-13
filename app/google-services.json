@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041639263785",
+    "firebase_url": "https://nodemcu-test-b3159-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-test-b3159",
+    "storage_bucket": "nodemcu-test-b3159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041639263785:android:a122ba5fb5df75b0e4d638",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041639263785-nu0jf0bvca4gqp0me5cq0oug0pda9jnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKe3qq8o4mw5M-LgvNbX2pVevZSVqVGWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041639263785-nu0jf0bvca4gqp0me5cq0oug0pda9jnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
